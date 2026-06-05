@@ -1,6 +1,6 @@
 # Cycle-1-2-Implementation-of-distance-vector-routing-protocol-RIP-Cisco-packet-tracer
 # 🧪 EXPT.NO: 2  
-📅 DATE: *(Insert Date)*
+📅 DATE: 2/5/26
 
 ## 📌 TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
